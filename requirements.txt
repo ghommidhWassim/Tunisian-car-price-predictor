@@ -1,0 +1,26 @@
+# Core
+numpy
+pandas
+
+# ML
+scikit-learn
+tensorflow
+
+# Web scraping
+selenium
+beautifulsoup4
+lxml
+
+# Backend API
+fastapi
+uvicorn
+
+# UI (Hugging Face Spaces friendly)
+gradio
+
+# Utils
+joblib
+matplotlib
+seaborn
+requests
+tqdm
